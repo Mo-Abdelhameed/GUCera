@@ -1,0 +1,117 @@
+/Users/moo/Desktop/GUCera/GUCera/bin/GUCera.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/GUCera.pdb
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csc.exe
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csc.exe.config
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csc.rsp
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csi.exe
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csi.exe.config
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/csi.rsp
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CodeAnalysis.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.CSharp.Core.targets
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.Managed.Core.targets
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.VisualBasic.Core.targets
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/Microsoft.Win32.Primitives.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.AppContext.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Collections.Immutable.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Console.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Diagnostics.DiagnosticSource.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Diagnostics.FileVersionInfo.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Diagnostics.StackTrace.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Globalization.Calendars.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.IO.Compression.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.IO.Compression.ZipFile.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.IO.FileSystem.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.IO.FileSystem.Primitives.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Net.Http.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Net.Sockets.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Reflection.Metadata.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Runtime.InteropServices.RuntimeInformation.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Security.Cryptography.Algorithms.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Security.Cryptography.Encoding.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Security.Cryptography.Primitives.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Security.Cryptography.X509Certificates.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Text.Encoding.CodePages.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Threading.Tasks.Extensions.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.ValueTuple.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Xml.ReaderWriter.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Xml.XmlDocument.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Xml.XPath.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/System.Xml.XPath.XDocument.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/vbc.exe
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/vbc.exe.config
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/vbc.rsp
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/VBCSCompiler.exe
+/Users/moo/Desktop/GUCera/GUCera/bin/roslyn/VBCSCompiler.exe.config
+/Users/moo/Desktop/GUCera/GUCera/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+/Users/moo/Desktop/GUCera/GUCera/bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+/Users/moo/Desktop/GUCera/GUCera/obj/Debug/GUCera.csprojAssemblyReference.cache
+/Users/moo/Desktop/GUCera/GUCera/obj/Debug/GUCera.csproj.CoreCompileInputs.cache
+/Users/moo/Desktop/GUCera/GUCera/obj/Debug/GUCera.csproj.CopyComplete
+/Users/moo/Desktop/GUCera/GUCera/obj/Debug/GUCera.dll
+/Users/moo/Desktop/GUCera/GUCera/obj/Debug/GUCera.pdb
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\GUCera.dll.config
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\GUCera.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\GUCera.pdb
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csc.exe
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csc.exe.config
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csc.rsp
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csi.exe
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csi.exe.config
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\csi.rsp
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.CSharp.Core.targets
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.Managed.Core.targets
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\Microsoft.Win32.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.AppContext.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Collections.Immutable.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Console.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Diagnostics.StackTrace.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Globalization.Calendars.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.IO.Compression.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.IO.Compression.ZipFile.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.IO.FileSystem.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.IO.FileSystem.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Net.Http.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Net.Sockets.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Reflection.Metadata.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Security.Cryptography.Encoding.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Security.Cryptography.Primitives.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Text.Encoding.CodePages.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Threading.Tasks.Extensions.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.ValueTuple.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Xml.ReaderWriter.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Xml.XmlDocument.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Xml.XPath.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\System.Xml.XPath.XDocument.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\vbc.exe
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\vbc.exe.config
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\vbc.rsp
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\VBCSCompiler.exe
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\roslyn\VBCSCompiler.exe.config
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\obj\Debug\GUCera.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\obj\Debug\GUCera.csproj.CopyComplete
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\obj\Debug\GUCera.dll
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\obj\Debug\GUCera.pdb
+\\vmware-host\Shared Folders\Desktop\GUCera\GUCera\obj\Debug\GUCera.csprojAssemblyReference.cache
